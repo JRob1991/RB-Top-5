@@ -1,6 +1,6 @@
 h1 {
   background: rgb(88,0,0);
-  padding-left: 3%;
+  padding-left: 1%;
   margin: 1em;
   color: white;
   font-family: fantasy;
@@ -46,5 +46,4 @@ footer {
   padding-left: 4%;
   padding-top:4%;
   background: green;
-  font-family: fantasy;
 }
