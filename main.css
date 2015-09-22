@@ -1,0 +1,49 @@
+h1 {
+  background: rgb(88,0,0);
+  padding-left: 3%;
+  margin: 1em;
+  color: white;
+  font-family: fantasy;
+}
+
+img {
+  width: 900px;
+  height: 600px;
+  padding-left: 12%;
+}
+li  {
+  color: black;
+  font-family: cursive;
+  padding-top: 2%;
+  text-align: center;
+}
+p {
+  font-size: 150%;
+  color: blue;
+}
+.big-centered-text {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 40px;
+}
+a {
+  font-size: 28px;
+  color: #FF9966;
+  padding-left: 37%;
+}
+h2 {
+  padding-top: 5%;
+  color: red;
+  margin: 1em;
+  font-size: 55px;
+}
+.runner-up {
+  padding-right: 5%;
+  text-align: center;
+}
+footer {
+  padding-left: 4%;
+  padding-top:4%;
+  background: blue;
+  font-family: fantasy;
+}
