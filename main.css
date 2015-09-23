@@ -50,5 +50,6 @@ h2 {
 }
 footer {
   background: green;
-  display: inline-block;
+  font-size: 50px;
+  padding-left: 3%;
 }
